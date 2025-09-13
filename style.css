@@ -36,4 +36,15 @@ body {
     padding: 1rem;
     margin-top: 20px;
   }
+  .dark {
+    background-color: #121212;
+    color: #f1f1f1;
+  }
   
+  .dark header {
+    background-color: #333;
+  }
+  
+  .dark footer {
+    background-color: #444;
+  }
