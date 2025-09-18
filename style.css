@@ -18,9 +18,11 @@ body {
     color: #fff;
     margin: 0 10px;
     text-decoration: none;
+    transition: color 0.3s;
   }
   nav a:hover {
     text-decoration: underline;
+    color: orange;
   }
   
   /* Sections */
@@ -48,3 +50,6 @@ body {
   .dark footer {
     background-color: #444;
   }
+   html{
+    scroll-behavior: smooth;
+   }
